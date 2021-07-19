@@ -23,3 +23,6 @@ This is a hybrid framework buit using different component - Selenium with Sereni
 3. WebDriverManager Used for picking the driver file automatically
 
 4. Page actions, web elements are maintained in individual packages for easy maintanance.
+
+## Future Improvements
+1. Reporting part can be improved bt including other reporting options
